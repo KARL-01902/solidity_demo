@@ -73,11 +73,11 @@
 	},
 	"sources": {
 		"contracts/globalVar.sol": {
-			"keccak256": "0xe732bac5635e837535f2cf1981b15e13683c85f80b9295c4557799a458649e5a",
+			"keccak256": "0x63a5ea42a6d7975a5a1c412d3e24901a97d38743835dd1ce4fede7a81f136f8e",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://83ca82d655415dce077518e30fffe64c54d006d124ff18190cf87fef362b9611",
-				"dweb:/ipfs/QmNmiPjr4fHgRYveZRQwgQrReKAP8KoABMMv6EVaNKy5LX"
+				"bzz-raw://57779f892a7627b0c1099568d5b0fb64414c5ce59be0108f96011e5578ee47af",
+				"dweb:/ipfs/QmZZKt9GZsYy63WC2kuWYYZ5av2DE256TDWQETGa1BxDer"
 			]
 		}
 	},

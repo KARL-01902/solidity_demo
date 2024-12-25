@@ -25,5 +25,5 @@ contract GLOBAL_VAR{
         addr.transfer(msg.value);
     }
     
-     // rest all global variables you can check out yourself
+     // rest all global variables you can check out
 }
